@@ -1,2 +1,2 @@
 # datasciencecoursera
-A repository  for Data Science toolkit project.
+A repository for Data Science Coursera Assignments.
