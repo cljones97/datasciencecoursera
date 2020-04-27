@@ -33,3 +33,4 @@ print(sample(1:10))
 print(sample(1:10, replace = TRUE)) #Can get repeats
 
 
+#I commented out the plots because they take awhile to load
